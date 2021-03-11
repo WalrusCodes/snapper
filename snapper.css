@@ -1,0 +1,13 @@
+#video {
+  border: 1px solid black;
+  width: 640px;
+  height: 480px;
+}
+
+#photo {
+  border: 1px solid black;
+}
+
+#canvas {
+  display: none;
+}
